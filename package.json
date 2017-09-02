@@ -7,5 +7,8 @@
     "electron": "electron ."
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.7.5"
+  }
 }
